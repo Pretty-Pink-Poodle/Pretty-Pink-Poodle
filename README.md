@@ -35,9 +35,9 @@ https://github.com/Pretty-Pink-Poodle/weather-app
 
 ## Education
 
-B.S. in Computer Science - Southern New Hampshire University 
-A.S. in Information Technology - Tennessee College of Applied Technology: Murfreesboro
-Journalism Coursework - Middle Tennessee State University
+- B.S. in Computer Science - Southern New Hampshire University 
+- A.S. in Information Technology - Tennessee College of Applied Technology: Murfreesboro
+- Journalism Coursework - Middle Tennessee State University
 
 
 ## Fun Facts

@@ -11,7 +11,26 @@ Currently building projects with:
 
 ## Projects
 
+### 🖥️ TicketFlow
+
+A responsive IT service desk dashboard featuring:
+
+- Ticket creation and management
+- Search and multi-criteria filtering
+- Status workflow tracking
+- Priority filtering
+- Technician assignment
+- Persistent ticket storage with localStorage
+- Dynamic dashboard statistics
+
+Live Demo: 
+https://pretty-pink-poodle.github.io/ticketflow/
+
+Repository: 
+https://github.com/Pretty-Pink-Poodle/ticketflow
+
 ### 🌸 Y2K Weather App
+
 A responsive weather application featuring:
 - REST API integration
 - Dynamic themes

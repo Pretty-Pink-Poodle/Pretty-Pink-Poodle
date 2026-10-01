@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Lauren ♡
 
-<!--
-**Pretty-Pink-Poodle/Pretty-Pink-Poodle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer science student, aspiring technology professional, and creative problem solver.
 
-Here are some ideas to get you started:
+Currently building projects with:
+- JavaScript
+- Python
+- HTML/CSS
+- Data analysis
+- IT support technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### 🌸 Y2K Weather App
+A responsive weather application featuring:
+- REST API integration
+- Dynamic themes
+- Weather forecasts
+- Fahrenheit/Celsius conversion
+
+Live Demo:
+https://pretty-pink-poodle.github.io/weather-app/
+
+Repository:
+https://github.com/Pretty-Pink-Poodle/weather-app
+
+
+## Currently Learning
+
+- JavaScript development
+- Python scripting
+- Data analytics
+- Systems and IT operations
+
+
+## Education
+
+B.S. in Computer Science - Southern New Hampshire University 
+A.S. in Information Technology - Tennessee College of Applied Technology: Murfreesboro
+Journalism Coursework - Middle Tennessee State University
+
+
+## Fun Facts
+
+- Licensed cosmetologist ✂️
+- Member of Sigma Gamma Rho Sorority Inc. 💙💛
+- Writer & creative storyteller
+- Lover of cute UI designs and nostalgic aesthetics ♡
